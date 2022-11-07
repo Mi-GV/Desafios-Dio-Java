@@ -1,0 +1,92 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch ChamadaRecursiva",
+            "request": "launch",
+            "mainClass": "ChamadaRecursiva",
+            "projectName": "java-desafios-dio_cd45c6ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch APP",
+            "request": "launch",
+            "mainClass": "APP",
+            "projectName": "java-desafios-dio_cd45c6ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch DesafioFizzBuzz",
+            "request": "launch",
+            "mainClass": "DesafioFizzBuzz",
+            "projectName": "java-desafios-dio_cd45c6ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch EcontrandoPercentual",
+            "request": "launch",
+            "mainClass": "EcontrandoPercentual",
+            "projectName": "java-desafios-dio_cd45c6ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch Filabanco",
+            "request": "launch",
+            "mainClass": "Filabanco",
+            "projectName": "java-desafios-dio_cd45c6ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch MediadeIdade",
+            "request": "launch",
+            "mainClass": "MediadeIdade",
+            "projectName": "java-desafios-dio_cd45c6ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch MinimoMultiplo",
+            "request": "launch",
+            "mainClass": "MinimoMultiplo",
+            "projectName": "java-desafios-dio_cd45c6ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumerosIguais",
+            "request": "launch",
+            "mainClass": "NumerosIguais",
+            "projectName": "java-desafios-dio_cd45c6ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperacoesMatematicas",
+            "request": "launch",
+            "mainClass": "OperacoesMatematicas",
+            "projectName": "java-desafios-dio_cd45c6ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch OperacoesMatematicas2",
+            "request": "launch",
+            "mainClass": "OperacoesMatematicas2",
+            "projectName": "java-desafios-dio_cd45c6ce"
+        },
+        {
+            "type": "java",
+            "name": "Launch SomandoMultiplos",
+            "request": "launch",
+            "mainClass": "SomandoMultiplos",
+            "projectName": "java-desafios-dio_cd45c6ce"
+        }
+    ]
+}
