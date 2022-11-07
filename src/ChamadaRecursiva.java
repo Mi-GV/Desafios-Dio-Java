@@ -12,6 +12,7 @@ public class ChamadaRecursiva {
 
         System.out.println(soma);
     }
+    
             static int somatorio(int numero) {
                 if (numero == 0) {
                     return 0;
