@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 /*Desafio
 
@@ -21,6 +22,8 @@ Exemplos de Entrada 	   Exemplos de Saída
 
 */
 
+=======
+>>>>>>> 3049203da530afabcc106f576a3d7da9af662a21
 import java.util.Scanner;
 
 public class MultiplicacaoSimples {
