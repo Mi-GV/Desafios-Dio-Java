@@ -1,9 +1,5 @@
 import java.io.IOException;
-<<<<<<< HEAD
 import java.util.Scanner;
-=======
-        import java.util.Scanner;
->>>>>>> 3049203da530afabcc106f576a3d7da9af662a21
 
 public class AcimaDaDiagonalPrincipal{
 
@@ -26,7 +22,7 @@ public class AcimaDaDiagonalPrincipal{
         }
 
         if (O == 'M') {
-            soma /= ((M.length * M.length) - 12) / 2;
+            soma /= ((M.length * M.length) - 12d) / 2;
         }
 
         System.out.printf("%.1f%n", soma);
