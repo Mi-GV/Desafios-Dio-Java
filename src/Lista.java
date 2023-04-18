@@ -16,10 +16,10 @@ Para cada arquivo da entrada, terá um arquivo de saída. E como mencionado no D
 Use o exemplo abaixo para clarear o que está sendo pedido.
 
 
-Exemplos de Entrada	  Exemplos de Saída
-USP                   UFCG
-UFPE                  ITA
-UFCG                  URI
+Exemplos de Entrada:	       Exemplos de Saída:
+USP                            UFCG
+UFPE                           ITA
+UFCG                           URI
 UFRN
 UFRJ
 IME
