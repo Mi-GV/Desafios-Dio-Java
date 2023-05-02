@@ -1,4 +1,4 @@
-package ExemploPilaresPoo;
+package ProjetosJava.ExemploPilaresPoo;
 
 public class Autodromo {
     public static void main(String[] args) {

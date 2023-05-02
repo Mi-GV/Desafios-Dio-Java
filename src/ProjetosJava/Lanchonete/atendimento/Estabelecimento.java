@@ -1,8 +1,8 @@
-package Lanchonete.atendimento;
+package ProjetosJava.Lanchonete.atendimento;
 
-import Lanchonete.area.cliente.Cliente;
-import Lanchonete.atendimento.cozinha.Almoxarife;
-import Lanchonete.atendimento.cozinha.Cozinheiro;
+import ProjetosJava.Lanchonete.area.cliente.Cliente;
+import ProjetosJava.Lanchonete.atendimento.cozinha.Almoxarife;
+import ProjetosJava.Lanchonete.atendimento.cozinha.Cozinheiro;
 
 public class Estabelecimento {
     public static void main (String[] args) {

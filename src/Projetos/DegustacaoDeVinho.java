@@ -39,7 +39,7 @@ public class DegustacaoDeVinho {
         String respostasCompetidores = scan.nextLine();
 
         String[] respostasCompetidoresSplit = respostasCompetidores.split(" ");
-//TODO: Complete o código com uma possível solução para o problema.
+
         int count = 0;
         for (short i = 0; i < respostasCompetidoresSplit.length; i++) {
             if (respostasCompetidoresSplit[i].equals(T))

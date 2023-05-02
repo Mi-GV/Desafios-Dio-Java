@@ -1,4 +1,4 @@
-package ExemploPilaresPoo;
+package ProjetosJava.ExemploPilaresPoo;
 
 public abstract class Veiculo {
     private String chassi;

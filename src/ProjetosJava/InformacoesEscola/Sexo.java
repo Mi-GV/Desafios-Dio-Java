@@ -1,4 +1,4 @@
-package InformacoesEscola;
+package ProjetosJava.InformacoesEscola;
 
 public enum Sexo {
     FEMININO,

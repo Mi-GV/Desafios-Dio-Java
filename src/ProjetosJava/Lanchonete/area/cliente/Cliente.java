@@ -1,4 +1,4 @@
-package Lanchonete.area.cliente;
+package ProjetosJava.Lanchonete.area.cliente;
 
 public class Cliente {
     public void escolherLanche() {

@@ -1,6 +1,4 @@
-package InformacoesEscola;
-
-import InformacoesEscola.Cor;
+package ProjetosJava.InformacoesEscola;
 
 public class Estudante<Food, Eat> {
     String nome;
