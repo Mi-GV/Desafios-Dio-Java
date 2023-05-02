@@ -1,6 +1,4 @@
-package Lanchonete.atendimento.cozinha;
-
-import Lanchonete.atendimento.Atendente;
+package ProjetosJava.Lanchonete.atendimento.cozinha;
 
 public class Cozinheiro {
     public void adicionarLancheNoBalcao() {

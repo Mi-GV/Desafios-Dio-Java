@@ -1,6 +1,4 @@
-package InformacoesEscola;
-
-import InformacoesEscola.Cor;
+package ProjetosJava.InformacoesEscola;
 
 public class Escola {
     public static void main(String[]args) throws Exception {

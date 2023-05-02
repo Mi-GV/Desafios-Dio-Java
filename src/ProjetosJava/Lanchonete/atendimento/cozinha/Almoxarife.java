@@ -1,4 +1,4 @@
-package Lanchonete.atendimento.cozinha;
+package ProjetosJava.Lanchonete.atendimento.cozinha;
 
 public class Almoxarife {
     private void controlarEntrada() {
