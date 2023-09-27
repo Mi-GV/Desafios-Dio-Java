@@ -15,7 +15,7 @@ Exemplo de Entrada 	    Exemplo de Saída
  */
 
 import java.io.IOException;
-        import java.util.Scanner;
+import java.util.Scanner;
 
 public class FibonacciFacil  {
 
